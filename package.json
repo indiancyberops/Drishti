@@ -1,0 +1,32 @@
+{
+  "name": "drishti",
+  "version": "1.0.0",
+  "description": "this is a Recon Tool",
+  "main": "test.js",
+  "scripts": {
+    "main": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "url"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "Prateek Singh",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.6",
+    "colors": "^1.4.0",
+    "crypto-js": "^4.0.0",
+    "dateformat": "^4.5.1",
+    "expand-url": "^0.1.3",
+    "gradient-string": "^1.2.0",
+    "instagram-scraping": "^1.0.13",
+    "node-url-shortener": "^1.1.11",
+    "ora": "^5.4.0",
+    "prompt-sync": "^4.2.0",
+    "system-sleep": "^1.3.7",
+    "systeminformation": "^5.7.1"
+  }
+}
