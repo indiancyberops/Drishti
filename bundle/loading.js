@@ -1,3 +1,4 @@
+//Drishti is written by 7ORP3DO
 const { versions } = require('process');
 
 exports.show = (time, clr, txt, cmptxt) => {

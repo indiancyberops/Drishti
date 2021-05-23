@@ -1,4 +1,4 @@
-
+//Drishti is written by 7ORP3DO
 exports.hash = (dec) => {
 
     const banner = require("./banner");

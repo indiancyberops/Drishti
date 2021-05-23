@@ -1,3 +1,4 @@
+//Drishti is written by 7ORP3DO
 exports.back = () => {
     const prompt = require('prompt-sync')();
     const clr = require('colors');

@@ -1,3 +1,6 @@
+//Drishti is written by 7ORP3DO
+
+
 console.log('Starting tool...');
 
 console.clear();

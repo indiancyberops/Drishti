@@ -6,7 +6,7 @@ var current_date = new Date();
 var show_date = dateFormat(current_date, "dd-mm-yyyy");
 var show_time = dateFormat(current_date, "hh:MM:ss TT");
 var version;
-
+//Drishti is written by 7ORP3DO
 require('fs').readFile('./bundle/version', 'utf8', function(err, data) {
     version = data;
 });
