@@ -34,4 +34,4 @@ setTimeout(() => {
 
   require('./bundle/home').show();
 
-}, 11200);
+}, 11100);
