@@ -37,67 +37,66 @@
 <br>
 
 
-## ABOUT TOOL :
+## ABOUT TOOL:
 
-Drishti is an information collection tool (OSINT) which aims to carry out Basic Information. It provides various modules that allow efficient searches. Drishti does not require an API key or login ID.
+Drishti is an information collection tool (OSINT) which aims to carry out the search of Basic Information. It provides various modules that allow efficient searches. Drishti does not require any API key or login ID.
 
 
-## AVAILABLE ON :
+## AVAILABLE ON:
 
 * Termux
 * Windows
 * Linux
 
-### TESTED ON :
+### TESTED ON:
 
 * Termux
 * Windows 10 (Powershell)
 * Kali Linux
 
-### REQUIREMENTS :
-* Internet 20 MB
-* Storage 50 MB
+### REQUIREMENTS:
+* Bandwidth to install 20 MBs
+* Min. Required Storage 50 MBs
 
 
-## FEATURES :
-* [+] Unlimited usage !
-* [+] Updated maintainence !
-* [+] Easy for Beginners !
-* [+] Instagram Lookup !
-* [+] InstaGram DP Download !
-* [+] IP Lookup !
-* [+] DNS Lookup !
-* [+] Port Scan !
-* [+] Address Lookup !
-* [+] Decrypt Hash !
-* [+] Url Shortner !
-* [+] Url Expander !
-* [+] HTTP Header Detector !
-* [+] Reverse Ip Lookup !
+## FEATURES:
+* [+] Unlimited usage.
+* [+] Regularly Maintained.
+* [+] Beginner's friendly.
+* [+] Instagram Lookup and DP download.
+* [+] IP Lookup.
+* [+] DNS Lookup.
+* [+] Port Scan.
+* [+] Address Lookup.
+* [+] Decrypt Hash.
+* [+] URL Shortner.
+* [+] URL Expander.
+* [+] HTTP Header Detector.
+* [+] Reverse IP Lookup.
 
 
 
-## INSTALLATION :
+## INSTALLATION:
 
-* ### [Termux] :
+* ### [Termux]:
 
 ```sh
 apt-get update -y
 apt-get upgrade -y
 pkg install nodejs -y
 pkg install git -y
-git clone https://github.com/INDIANCYBEROPS/Drishti
+git clone https://github.com/indiancyberops/Drishti
 cd $HOME
 ls
 cd Drishti
 ls
 node main.js
 ```
-* ### Windows(x64) :
+* ### Windows(x64):
 
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download NodeJS from [here](https://nodejs.org/en/download/) <br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download Drishti from [here](https://github.com) <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download Drishti from [here](https://github.com/indiancyberops/Drishti) <br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then Unzip Drishti (master.zip) <br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open CMD and go to the directory ```Drishti``` using the command ```cd```  and run <br>
 ```
@@ -128,11 +127,11 @@ node main.js
 [1] Instagram Lookup
 [2] IP Lookup
 [3] My IP Info
-[4] Url Shortner
-[5] Url Expender
+[4] URL Shortner
+[5] URL Expander
 [6] Encryption
 [7] Host Search
-[8] Reverse Ip Lookup
+[8] Reverse IP Lookup
 [9] Traceroute
 [10] DNS Lookup
 [11] My Device Info
@@ -142,7 +141,7 @@ node main.js
 [99] Update Tool
 [00] Exit
 
-Select Your Option :
+Select Your Option:
 ```
 
 ## SCREEN SHOTS [Windows]
@@ -158,7 +157,7 @@ Select Your Option :
 
 
 
-## CONNECT WITH US :
+## CONNECT WITH US:
 
 <a href="#"><img title="Github" src="https://img.shields.io/badge/Github-Indian Cyber Ops-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/indian_cyber_ops)
@@ -166,5 +165,5 @@ Select Your Option :
 [![Twitter](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=twitter)](https://twitter.com/indiancyberops?s=20)
 <a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Indian Cyber Ops-red?style=for-the-badge&logo=Youtube"></a>
 
-## WARNING : 
-***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+## WARNING: 
+***This Tool Is For Educational Purposes Only Do Not Do Any Illegal Activities.***
