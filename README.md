@@ -60,9 +60,9 @@ Drishti is an information collection tool (OSINT) which aims to carry out Basic 
 
 
 ## FEATURES :
-* [+] Unlimited usage !
-* [+] Updated maintainence !
-* [+] Easy for Beginners !
+* [+] Unlimited Usage !
+* [+] Updated Maintainence !
+* [+] Easy For Beginners !
 * [+] Instagram Lookup !
 * [+] InstaGram DP Download !
 * [+] IP Lookup !
